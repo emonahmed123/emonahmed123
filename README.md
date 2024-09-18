@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emonahmed123&show_icons=true&locale=en" alt="emonahmed123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emonahmed123&" alt="emonahmed123" /></p>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=emonahmed123&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+
