@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonahmed123&label=Profile%20views&color=0e75b6&style=flat" alt="emonahmed123" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://emonahmed.netlify.app/home](https://emonahmed.netlify.app/home)
+- 👨‍💻 All of my projects are available at [https://my-new-protfolio.vercel.app](https://my-new-protfolio.vercel.app)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT,**
 
 - 📫 How to reach me **imonshomon@gmail.com**
 
