@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-new-protfolio.vercel.app](https://my-new-protfolio.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT,**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, Nextjs**
 
 - 📫 How to reach me **imonshomon@gmail.com**
 
